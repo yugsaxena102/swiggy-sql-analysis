@@ -79,7 +79,7 @@ swiggy-sql-analysis/
 ## 🚀 Strategic Recommendations
 
 | # | Recommendation |
-|---|---|
+
 | 1 | **Launch** Burgers in Chennai — 14,570 demand votes, only 29 competitors |
 | 2 | **Expand** to South Goa and Lonavala — high avg ratings, minimal supply |
 | 3 | **Avoid** North Indian in Karnal, Rewa, Jammu — already 45–48% market share |
