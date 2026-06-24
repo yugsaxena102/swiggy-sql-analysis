@@ -96,6 +96,6 @@ swiggy-sql-analysis/
 
 ## 👤 Author
 
-**Yug Saxena**  
+*Yug Saxena* 
 B.Tech IT | JSS Academy of Technical Education, Noida  
 [GitHub](https://github.com/yugsaxena102)
