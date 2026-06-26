@@ -92,10 +92,5 @@ swiggy-sql-analysis/
 - **SQL** — MySQL / PostgreSQL
 - **Concepts Used** — Window Functions, CTEs, Subqueries, Aggregations, CASE statements, JOINs
 
----
 
-## 👤 Author
-
-*Yug Saxena* 
-B.Tech IT | JSS Academy of Technical Education, Noida  
 [GitHub](https://github.com/yugsaxena102)
